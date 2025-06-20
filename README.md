@@ -15,7 +15,7 @@ Please refrain from referring to these solutions during any live rounds — it's
 ## 📁 Contents
 
 - **📊 Rating Folders:**  
-  All problems are organized by their Codeforces difficulty rating (e.g., `0800`, `0900`, ...). Each folder contains `.cpp` files named by their **problem ID**.
+  All problems are organized by their Codeforces difficulty rating (e.g., `0800`, `1000`, ...). Each folder contains `.cpp` files named by their **problem ID**.
 
 - **🗺️ [`!mapping.txt`](./0800/!mapping.txt):**  
   Located in each folder, this maps problem IDs to their official **titles** and **Codeforces links**.
