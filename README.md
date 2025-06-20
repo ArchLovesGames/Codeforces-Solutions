@@ -1,12 +1,30 @@
-# Codeforces-Solutions
+# 🚀 Codeforces-Solutions
 
-This is the official repo to my Codeforces account in the name rosahood. 
--  Rating: 383
--  Over 10+ problems solved
+This is the official repo linked to my Codeforces account under the handle **rosahood**.
 
-This repo contains my personal CP solutions from Codeforces, both competitions and problemset. Please note that while I do not upload my solutions to active virtual contests or live competitions, I highly discourage referring to these solutions during a live contest.
+- 📈 **Current Rating**: 383  
+- ✅ **Problems Solved**: 10+  
+- 📂 This repo contains my personal **Competitive Programming (CP)** solutions from Codeforces — both from **contests** and the **problemset**.
 
-Contents:
-1. Rating Folders: The solutions have been organised in order of the ratings of the problemset as given in codeforces. The solutions have been named according to their problem ID on cf.
-2. [`!mapping.txt`] files are located within each folder to map the corresponding problem IDs to their respective names and their Codeforces link.
-3. [`!template.cpp`]: the template which I use on codeforces, written in C++. This may be used by anyone who wishes to use this template.
+⚠️ **Note:**  
+I do **not** upload solutions to *active virtual contests* or *live contests*.  
+Please refrain from referring to these solutions during any live rounds — it's meant for learning and post-practice only.
+
+---
+
+## 📁 Contents
+
+- **📊 Rating Folders:**  
+  All problems are organized by their Codeforces difficulty rating (e.g., `0800`, `0900`, ...). Each folder contains `.cpp` files named by their **problem ID**.
+
+- **🗺️ [`!mapping.txt`](./0800/!mapping.txt):**  
+  Located in each folder, this maps problem IDs to their official **titles** and **Codeforces links**.
+
+- **🧰 [`!template.cpp`](./!template.cpp):**  
+  My personal **C++ template** used during contests.  
+  Feel free to use or adapt it for your own contests and practice.
+
+---
+
+Happy coding! 💻✨  
+Follow my journey or fork the repo to start your own 🏁
