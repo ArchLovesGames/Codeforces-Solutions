@@ -12,7 +12,7 @@ Please refrain from referring to these solutions during any live rounds — it's
 
 ---
 
-## 📁 Contents
+## Contents
 
 - **Rating Folders:**  
   All problems are organized by their Codeforces difficulty rating (e.g., `0800`, `1000`, ...). Each folder contains `.cpp` files named by their **problem ID**.
@@ -27,4 +27,4 @@ Please refrain from referring to these solutions during any live rounds — it's
 ---
 
 Happy coding! 
-Follow my journey or fork the repo to start your own 
+Follow my journey or fork the repo to start your own.
