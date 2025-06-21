@@ -7,4 +7,5 @@ Problem List
 | 2116A.cpp  | Gellyfish and Tricolor Pansy  | https://codeforces.com/problemset/problem/2116/A   |
 | 2117A.cpp  | False Alarm                   | https://codeforces.com/problemset/problem/2117/A   |
 | 2117B.cpp  | Shrink                        | https://codeforces.com/problemset/problem/2117/B   |
+| 2118A.cpp  | Equal Subsequences            | https://codeforces.com/problemset/problem/2118/A	  |
 ---------------------------------------------------------------------------------------------------
