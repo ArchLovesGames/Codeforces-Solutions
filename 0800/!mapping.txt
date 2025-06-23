@@ -2,6 +2,7 @@ Problem List
 
 | File Name  | Problem Name                  | Link                                               |
 |------------|-------------------------------|----------------------------------------------------|
+| 4A.c       | Watermelon                    | https://codeforces.com/contest/4/problem/A         |
 | 71A.cpp    | Way Too Long Words            | https://codeforces.com/problemset/problem/71/A     |
 | 770A.cpp   | New Password                  | https://codeforces.com/problemset/problem/770/A    |
 | 2116A.cpp  | Gellyfish and Tricolor Pansy  | https://codeforces.com/problemset/problem/2116/A   |
