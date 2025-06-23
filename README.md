@@ -5,6 +5,7 @@ This is the official repo linked to my Codeforces account under the handle **ros
 -  **Current Rating**: 383  
 -  **Problems Solved**: 10+  
 -  This repo contains my personal **Competitive Programming (CP)** solutions from Codeforces — both from **contests** and the **problemset**.
+-  I primarily use C++ for my code, but I also use C and Java occasionally
 
 ⚠️ **Note:**  
 I do **not** upload solutions to *active virtual contests* or *live contests*.  
@@ -15,7 +16,7 @@ Please refrain from referring to these solutions during any live rounds — it's
 ## Contents
 
 - **Rating Folders:**  
-  All problems are organized by their Codeforces difficulty rating (e.g., `0800`, `1000`, ...). Each folder contains `.cpp` files named by their **problem ID**.
+  All problems are organized by their Codeforces difficulty rating (e.g., `0800`, `1000`, ...). Each folder contains `.cpp`, `.c`, and `.java`  files named by their **problem ID**.
 
 - **[`!mapping.txt`](./0800/!mapping.txt):**  
   Located in each folder, this maps problem IDs to their official **titles** and **Codeforces links**.
