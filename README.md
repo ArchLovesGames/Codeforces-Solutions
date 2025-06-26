@@ -2,7 +2,7 @@
 
 This is the official repo linked to my Codeforces account under the handle **rosahood**.
 
--  **Current Rating**: 383  
+-  **Current Rating**: 637  
 -  **Problems Solved**: 10+  
 -  This repo contains my personal **Competitive Programming (CP)** solutions from Codeforces — both from **contests** and the **problemset**.
 -  I primarily use C++ for my code, but I also use C and Java occasionally
