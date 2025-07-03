@@ -26,6 +26,3 @@ Please refrain from referring to these solutions during any live rounds — it's
   Feel free to use or adapt it for your own contests and practice.
 
 ---
-
-Happy coding! 
-Follow my journey or fork the repo to start your own.
